@@ -1,0 +1,19 @@
+{
+    "name": "stephank-vindinium-bot",
+    "authors": ["stephank", "ozten"],
+    "version": "1.0.0",
+    "license": "BSD",
+    "keywords": ["vindinium"],
+
+    "main": "bot.js",
+    "bin": "bot.js",
+    "dependencies": {
+        "vindinium-client": "2",
+        "printf": "0.1"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stephank/vindinium-bot.git"
+    }
+}
