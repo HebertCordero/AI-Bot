@@ -3,3 +3,5 @@ Vindinium is a multi-player turn based dungeon crawling game. Each player has on
 
 ## The Code
 This code uses Node.js to make the AI Logic, The bot should focus on finding the mines and aquiring GoldPerTurn, while staying away from other bots specially if the health is slow.
+
+![alt text](http://rwdc2.com/files/forest.png)
