@@ -1,4 +1,4 @@
-# AI-Bot
+# Vindinium-Bot
 Vindinium is a multi-player turn based dungeon crawling game. Each player has one hero that can move across a map. The objective is for players to amass the maximum quantity of gold during a predetermined number of turns.
 
 ## The Code
