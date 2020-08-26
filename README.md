@@ -20,10 +20,12 @@ npm install
 
 ## Usage
 
-|-a|ARENA MODE|This will enlist you in a PVP match against other real bots.|
-|-t|TRAINING MODE|This will queue your bot in a TRAINING MODE battle against basic bots.|
-|num games|Number of games to play|min 1|
-|config|config.json|This loads your api key that will be used to play|
+| Command | Name | Explanation |
+|:---:|:---:|:---:|
+| -a | ARENA MODE | This will enlist you in a PVP match against other real bots. |
+| -t | TRAINING MODE | This will queue your bot in a TRAINING MODE battle against basic bots. |
+| num games | Number of games to play | min 1 |
+| config | config.json | This loads your api key that will be used to play. |
 
 ```node
 node bot.js <-a|-t> <num games> <config>
